@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitar/static/css/main.5740cf87.css",
+    "main.js": "/gitar/static/js/main.2cd96065.js",
+    "static/js/787.ca05ba49.chunk.js": "/gitar/static/js/787.ca05ba49.chunk.js",
+    "index.html": "/gitar/index.html",
+    "main.5740cf87.css.map": "/gitar/static/css/main.5740cf87.css.map",
+    "main.2cd96065.js.map": "/gitar/static/js/main.2cd96065.js.map",
+    "787.ca05ba49.chunk.js.map": "/gitar/static/js/787.ca05ba49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.2cd96065.js"
+  ]
+}
